@@ -12,6 +12,8 @@ public class Triangle1
  int b = scan.nextInt();
  int c = scan.nextInt();
 
+ 
+
 
  
  } // end of method main
